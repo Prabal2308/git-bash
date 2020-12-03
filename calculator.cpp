@@ -17,7 +17,7 @@ int main() {
         break;
 
         case 'c':
-        cout<<"Hola"<<endl;
+        cout<<"Oye Oye"<<endl;
         break;
 
         case 'd':
