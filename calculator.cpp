@@ -25,7 +25,7 @@ int main() {
         break;
 
         case 'e':
-        cout<<"Ciao"<<endl;
+        cout<<"Vanakkam"<<endl;
         break;
 
         default:
